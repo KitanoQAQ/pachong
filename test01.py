@@ -18,6 +18,9 @@ with tf.Session() as sess:
     print(sess.graph)
 
 
+def fun():
+    print('哈哈哈')
+
 
 
 
