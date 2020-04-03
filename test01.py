@@ -20,6 +20,7 @@ with tf.Session() as sess:
 
 def fun():
     print('哈哈哈')
+    print('嘿嘿嘿')
 
 
 
