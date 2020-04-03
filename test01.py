@@ -21,7 +21,7 @@ with tf.Session() as sess:
 def fun():
     print('哈哈哈')
     print('嘿嘿嘿')
-
+    print("你好,数据分析")
 
 
 
